@@ -1,0 +1,19 @@
+{
+  "name": "nfactorial-homework-1006-npm",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js",
+    "hi": "echo 'Hello!'",
+    "bye": "echo 'Bye!'",
+    "git": "git add . & git commit -m'initial commit' & git push"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+body .light {
+
+    background-color: white;
+}
+
+body .dark {
+    background-color: black;
+}
+#mainContainer {
+    height: 500px;
+}
