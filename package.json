@@ -8,7 +8,7 @@
     "start": "node script.js",
     "hi": "echo 'Hello!'",
     "bye": "echo 'Bye!'",
-    "git": "git add . & git commit -m'initial commit' & git push"
+    "pushToGit": "git add . & git commit -m'changes' & git push"
   },
   "author": "",
   "license": "ISC",
